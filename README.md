@@ -1,2 +1,2 @@
 # tennis
-Ejemplo Gestión
+Ejemplo Gestion de Tenis
